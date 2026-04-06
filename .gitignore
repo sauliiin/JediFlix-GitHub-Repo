@@ -12,5 +12,4 @@ desktop.ini
 *.log
 
 # Temporary exports
-source-patch/
 output/

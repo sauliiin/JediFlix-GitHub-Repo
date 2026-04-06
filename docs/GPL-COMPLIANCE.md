@@ -16,10 +16,17 @@ This project is based on Kodi, which is distributed under `GPL-2.0-or-later`.
 
 ## Helper included here
 
-This repo includes `scripts/export-source-patch.sh`, which can generate a patch file by comparing:
+This repo includes `scripts/export-source-patch.sh`, which can generate:
 
 - `xbmc-21.3-Omega-original-unteched/xbmc-21.3-Omega`
 - `xbmc-21.3-Omega`
+
+The generated output is intended to live in `source-patch/` and includes:
+
+- `jediflix-kodi-corresponding-source.patch.gz`
+- `changed-files.txt`
+- `removed-files.txt`
+- `SHA256SUMS.txt`
 
 ## Important note
 

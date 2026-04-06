@@ -15,6 +15,7 @@ Saudações, jovem Padawan. Neste repositório, o APK modificado do seu Kodi reu
 - `docs/PUBLISH.md`: como subir tudo para um repo no GitHub.
 - `docs/GPL-COMPLIANCE.md`: o que observar por ser um projeto derivado do Kodi.
 - `metadata/app-info.txt`: metadados principais do app e do build.
+- `source-patch/jediflix-kodi-corresponding-source.patch.gz`: patch correspondente para as mudanças no código-fonte.
 - `LICENSE.md`: licença base herdada do projeto Kodi.
 
 ## Sobre este projeto, saber você deve 🧠
@@ -59,6 +60,12 @@ JediFlix-GitHub-Repo/
 |-- release/
 |   |-- SHA256SUMS.txt
 |   `-- jediflixapp-armeabi-v7a-release.apk
+|-- source-patch/
+|   |-- changed-files.txt
+|   |-- jediflix-kodi-corresponding-source.patch.gz
+|   |-- README.md
+|   |-- removed-files.txt
+|   `-- SHA256SUMS.txt
 |-- scripts/
 |   `-- export-source-patch.sh
 |-- .gitignore
