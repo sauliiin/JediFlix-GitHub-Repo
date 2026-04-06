@@ -1,0 +1,13 @@
+APP_NAME=JediFlix
+BASE_PROJECT=Kodi / XBMC
+COMPANY_NAME=XBMC Foundation
+DEV_NAME=Team Kodi
+VERSION_MAJOR=21
+VERSION_MINOR=9
+VERSION_CODE=21.9.0
+APP_PACKAGE=org.xbmc.kodi
+PACKAGE_DESCRIPTION=JediFlix is a streaming-optimized media center based on Kodi.
+APK_FILE=release/jediflixapp-armeabi-v7a-release.apk
+APK_SIZE_BYTES=69394170
+APK_SHA256=bc0ee313099a2e5e344fb4231e6f153d1745c4fa8791f9f0ee0f286a18d3a79d
+REPO_PREPARED_ON=2026-04-05
